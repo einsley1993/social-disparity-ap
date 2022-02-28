@@ -1,7 +1,7 @@
 
 
 # ============== Mediational g formula for survival outcome ============== #
-### convert age, BMI, income to quartiles
+### convert BMI, income to quartiles
 library(dplyr)
 dat2 <- dat1[,c("id",
                 "cvd",
