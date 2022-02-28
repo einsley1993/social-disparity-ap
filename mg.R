@@ -1,5 +1,11 @@
 
 
+################################################################################
+## Created on: Feb. 27, 2022
+## Author: Yi Li
+################################################################################
+
+
 # ============== Mediational g formula for survival outcome ============== #
 ### convert BMI, income to quartiles/quintiles
 library(dplyr)
