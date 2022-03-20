@@ -1,7 +1,7 @@
 Project: Using Mediational G Formula to Estimate the Effect of Social Disparity on All-cause Mortality through Air Pollution across Six Cycles of the Canadian Census Health and Environment Cohort
 
 
-Author: Yi Li (Department of Epidemiology, Biostatistics and Occupational Health, McGill)
+Author: Yi Li (Department of Epidemiology, Biostatistics and Occupational Health, McGill University)
 
 The mediational G formula code is based on the following references.
 
