@@ -5,6 +5,8 @@ Author: Yi Li
 
 sim1.R is the code for a preliminary simualation datset.
 
+mg.R is the code for mediational G formula.
+
 The mediational G formula code is based on the following references:
 
 1. Lin, S. H., Young, J., Logan, R., Tchetgen Tchetgen, E. J., & VanderWeele, T. J. (2017). Parametric Mediational g-Formula Approach to Mediation Analysis with Time-varying Exposures, Mediators, and Confounders. Epidemiology (Cambridge, Mass.), 28(2), 266–274. https://doi.org/10.1097/EDE.0000000000000609
